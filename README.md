@@ -21,3 +21,9 @@ Deepdream is a Computer Vision algorithm created by Alexander mordvintsev from G
 
 I have used 2 images which consists of mars and eiffel. initially, I blended these 2 images using PIL and feed into the InceptionV3 model.
 
+Here is the link to my colab notebook --> https://colab.research.google.com/drive/1chYR9QLQHPlQM5ufpQvbiGipSyc003ns#scrollTo=sMzXJKv6LMwP.
+
+I would like y'll fork this repository.
+
+Thanks
+
