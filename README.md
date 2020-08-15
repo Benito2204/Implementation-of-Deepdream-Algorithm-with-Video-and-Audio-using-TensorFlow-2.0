@@ -18,3 +18,5 @@ Deepdream Algorithm Steps:
 4. Calculate the gradient of the image with respect to the activations of the selected layer
 5. Modify the image to increase these activations, and thus enhance the patterns seen by the network resulting in trippy hallucinated image
 6. Iterate and repeat over multiple scales
+
+I have used 2 images which consists of mars and eiffel. initially, I blended these 2 images and feed into the InceptionV3 model
